@@ -3,8 +3,8 @@
  ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=320&section=header&text=WelcomeToMyGit!!&fontSize=80&desc=Beginner%20Web%20Developer💻)
 
 
- # 언제나 배우는 자세로, 열심히!!
- 
+ # I Always In Learning Attitude
+
  ### My Skill List🛠 
  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
