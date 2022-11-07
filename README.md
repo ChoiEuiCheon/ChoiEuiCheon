@@ -18,12 +18,16 @@
  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
+ <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  
  ### Utiliy
- <img href=""src="https://img.shields.io/badge/MDN-000000?style=flat-square&logo=MDNWebDocs&logoColor=white"/>
- <img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=Git&logoColor=white"/>
- <img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=Replit&logoColor=white"/>
+ <a href="https://developer.mozilla.org/ko/"><img src="https://img.shields.io/badge/MDN-000000?style=flat-square&logo=MDNWebDocs&logoColor=white"/>
+ <a href="https://github.com/ChoiEuiCheon"><img src="https://img.shields.io/badge/GitHub-F05032?style=flat-square&logo=Git&logoColor=white"/>
+ <a href="https://replit.com/@ChoiEuiCheon"><img src="https://img.shields.io/badge/Replit-F26207?style=flat-square&logo=Replit&logoColor=white"/><br/>
+ <a href="https://codesandbox.io/?from-app=1"><img src="https://img.shields.io/badge/CodeSandBox-151515?style=flat-square&logo=CodeSandBox&logoColor=white"/>
+ 
+ ### MyStory
+<a href="https://choieuicheon.tistory.com/m"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+<a href="https://www.notion.so/choieuicheon/4cc4aefdbcda4bda87cfccb366610633"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
- 
- 
 </div>
