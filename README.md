@@ -1,6 +1,6 @@
 <div align=center>
  
- ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=320&section=header&text=WelcomeToMyGit!!&fontSize=80&desc=Beginner%20Web%20Developer💻)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=310&section=header&text=WelcomeToMyGit!!&fontSize=80&desc=Beginner%20Web%20Developer💻)
 
 
  # Always Be Learning Attitude
@@ -30,8 +30,8 @@
 <a href="https://choieuicheon.tistory.com/m"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 <a href="https://www.notion.so/choieuicheon/4cc4aefdbcda4bda87cfccb366610633"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
-<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiEuiCheon&show_icons=true&theme=radical)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiEuiCheon&layout=compact)](https://github.com/ChoiEuiCheon/github-readme-stats)-->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiEuiCheon&show_icons=true&theme=radical)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiEuiCheon&layout=compact&theme=radical)](https://github.com/ChoiEuiCheon/github-readme-stats)
 
  
  
