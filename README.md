@@ -30,4 +30,10 @@
 <a href="https://choieuicheon.tistory.com/m"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/>
 <a href="https://www.notion.so/choieuicheon/4cc4aefdbcda4bda87cfccb366610633"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
 
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChoiEuiCheonD&show_icons=true&theme=radical)
+
+ 
+ 
+ 
+ 
 </div>
