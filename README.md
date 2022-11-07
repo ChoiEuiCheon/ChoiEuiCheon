@@ -1,6 +1,6 @@
 <div align=center>
  
- ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=280&section=header&text=WelcomeToMyGit!!&fontSize=80&desc=Beginner%20Web%20Developer💻)
+ ![header](https://capsule-render.vercel.app/api?type=Waving&&color=gradient&height=310&section=header&text=WelcomeToMyGit!!&fontSize=80&desc=Beginner%20Web%20Developer💻)
 
 
  # Always Be Learning Attitude
