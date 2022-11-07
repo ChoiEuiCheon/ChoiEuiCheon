@@ -1,6 +1,6 @@
 <div align=center>
  
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=350&section=header&text=Hello!&fontSize=85&desc=ChoiEuiCheon's%20GihHub)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=350&section=header&text=Hello!&fontSize=85&desc=EuiCheon's%20GitHub)
 
 # 언제나 열심히, 배우는 자세로 임하는 최의천 입니다!
  
