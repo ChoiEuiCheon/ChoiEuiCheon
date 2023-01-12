@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
  <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white"/></br>
  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
- <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDb&logoColor=white"/></br>
+ <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDb&logoColor=white"/>
  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white"/>
  
  ### Tool
